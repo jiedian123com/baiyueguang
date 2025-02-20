@@ -4,7 +4,7 @@
 最新官网地址：[白月光机场官网](https://jd123.affxc.com/baiyueguang/)
 
 ## 白月光机场怎么样？
-大哥云VPN加速器，提供Trojan协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
+白月光机场，提供Shadowsocks协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
 
 ## 白月光机场优惠码
 白月光机场优惠码：
